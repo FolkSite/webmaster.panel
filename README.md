@@ -12,6 +12,8 @@
 * favicon;
 * регистратор доменного имени.
 
+![Скриншот](screenshot.png)
+
 ## Скачать
 
 Актуальная версия — [скачать v1.0](https://github.com/ref/webmaster.panel/releases/download/1.0/webmaster-panel_v1.0.zip)
